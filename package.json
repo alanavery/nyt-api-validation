@@ -1,0 +1,29 @@
+{
+  "name": "nyt-api-validation",
+  "version": "1.0.0",
+  "description": "An app using the NYT API and focused on validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delayedaa/nyt-api-validation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delayedaa/nyt-api-validation/issues"
+  },
+  "homepage": "https://github.com/delayedaa/nyt-api-validation#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  }
+}
